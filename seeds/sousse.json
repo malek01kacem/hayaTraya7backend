@@ -1,0 +1,282 @@
+[
+    {
+        "nom": "khzema football stade",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.85234220693443",
+            "long": "10.616660970550043"
+        }
+    },
+    {
+        "nom": "sousse football academy",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.85430127507426",
+            "long": "10.602916606832723"
+        }
+    },
+    {
+        "nom": "terrain rimess",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.871446872636525",
+            "long": "10.603252920941484"
+        }
+    },
+    {
+        "nom": "arena football academy",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.869258958237054",
+            "long": "10.586638749116982"
+        }
+    },
+    {
+        "nom": "ooredoo fatball academy",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.84291018448956",
+            "long": "10.610946920839638"
+        }
+    },
+    {
+        "nom": "terrain de football : fcz (hay ezzouhour)",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.79447342088188",
+            "long": "10.576573223665495"
+        }
+    },
+    {
+        "nom": "terrain erriadh 5",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.80217261989148",
+            "long": "10.582544142336582"
+        }
+    },
+    {
+        "nom": "dragons football academy",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.77801342043932",
+            "long": "10.62812860013133"
+        }
+    },
+    {
+        "nom": "academie parc des champions",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.79541920279305",
+            "long": "10.627001510717223"
+        }
+    },
+    {
+        "nom": "maison de jeunes hay erriadh",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.80450673265685",
+            "long": "10.605072750240634"
+        }
+    },
+    {
+        "nom": "stade olympique de sousse",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.8234970564752",
+            "long": "10.61284401393787"
+        }
+    },
+    {
+        "nom": "complexe sportive d etoile du sahel",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.82402001413426",
+            "long": "10.607340791294542"
+        }
+    },
+    {
+        "nom": "balbouli football academy",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.82746397036663",
+            "long": "10.60122979782811"
+        }
+    },
+    {
+        "nom": "stade mohamed maarouf",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.829458941186566",
+            "long": "10.62453328334749"
+        }
+    },
+    {
+        "nom": "stade cité laaouina",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.80200853107972",
+            "long": "10.633370369665274"
+        }
+    },
+    {
+        "nom": "blue sky park",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.85349033414589",
+            "long": "10.597955186712426"
+        }
+    },
+    {
+        "nom": "stade bou ali lahouar",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.85553999830747",
+            "long": "10.598834327558484"
+        }
+    },
+    {
+        "nom": "maracan football academy",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.898889540972014",
+            "long": "10.56505309833926"
+        }
+    },
+    {
+        "nom": "zinebledi terrain de foot",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.900633757397436",
+            "long": "10.562514289565579"
+        }
+    },
+    {
+        "nom": "académie kais el ghodhben",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.918378581528856",
+            "long": "10.528017466193955"
+        }
+    },
+    {
+        "nom": "oxygen parc",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.95443800394696",
+            "long": "10.459690577551896"
+        }
+    },
+    {
+        "nom": "jabbes academy",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.953844622252916",
+            "long": "10.538133643000483"
+        }
+    },
+    {
+        "nom": "stade municipal akouda",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.87015321794517",
+            "long": "10.571990561931246"
+        }
+    },
+    {
+        "nom": "chouaieb complexe sportif et loisirs",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.822905017441904",
+            "long": "10.574502181814223"
+        }
+    },
+    {
+        "nom": "chniti foot academy",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.83621634627758",
+            "long": "10.554229073986601"
+        }
+    },
+    {
+        "nom": "stade municipal kalaa sghira",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.84110874777974",
+            "long": "10.558497782402116"
+        }
+    },
+    {
+        "nom": "noor foot center",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.85866598095843",
+            "long": "10.537549269976468"
+        }
+    },
+    {
+        "nom": "stade municipal kalaa kbira",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.86957373459523",
+            "long": "10.549647314301435"
+        }
+    },
+    {
+        "nom": "la grinta hergla",
+        "adresse": {
+            "state": "sousse",
+            "lat": "36.012649591193785",
+            "long": "10.51211286280786"
+        }
+    },
+    {
+        "nom": "napoles football academy",
+        "adresse": {
+            "state": "sousse",
+            "lat": "36.021273441015374",
+            "long": "10.498703716643355"
+        }
+    },
+    {
+        "nom": "mondial football",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.764310206336994",
+            "long": "10.610056604270994"
+        }
+    },
+    {
+        "nom": "elite football academy",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.740089100414345",
+            "long": "10.565382668019202"
+        }
+    },
+    {
+        "nom": "kids football academy messaaddine",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.755114732906975",
+            "long": "10.591818516800018"
+        }
+    },
+    {
+        "nom": "football academy moussa",
+        "adresse": {
+            "state": "sousse",
+            "lat": "36.146860590051354",
+            "long": "10.406114678434786"
+        }
+    },
+    {
+        "nom": "super clasico foot",
+        "adresse": {
+            "state": "sousse",
+            "lat": "35.89753632339911",
+            "long": "10.554491736030837"
+        }
+    }
+]

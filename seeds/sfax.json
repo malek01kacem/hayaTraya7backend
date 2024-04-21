@@ -1,0 +1,170 @@
+[
+    {
+        "nom": "stade cicalti",
+        "adresse": {
+            "state": "sfax",
+            "lat": "34.74110502313649",
+            "long": "10.764642673009588"
+        }
+    },
+    {
+        "nom": "anexe stade cicalti",
+        "adresse": {
+            "state": "sfax",
+            "lat": "34.74137681628478",
+            "long": "10.766400341141088"
+        }
+    },
+    {
+        "nom": "terrain de foot 2 mars sfax",
+        "adresse": {
+            "state": "sfax",
+            "lat": "34.75362138717723",
+            "long": "10.773243654755673"
+        }
+    },
+    {
+        "nom": "stade cité el habib",
+        "adresse": {
+            "state": "sfax",
+            "lat": "34.727943342628244",
+            "long": "10.715600065901612"
+        }
+    },
+    {
+        "nom": "terrain du foot universitaire",
+        "adresse": {
+            "state": "sfax",
+            "lat": "34.73028865545039",
+            "long": "10.714707598799833"
+        }
+    },
+    {
+        "nom": "terrain du handball universitaire",
+        "adresse": {
+            "state": "sfax",
+            "lat": "34.730954499298264",
+            "long": "10.713606256082937"
+        }
+    },
+    {
+        "nom": "terrain du volleyball universitaire",
+        "adresse": {
+            "state": "sfax",
+            "lat": "34.73092308749203",
+            "long": "10.713325294676878"
+        }
+    },
+    {
+        "nom": "tennis club de sfax",
+        "adresse": {
+            "state": "sfax",
+            "lat": "34.734416175388695",
+            "long": "10.71515690833862"
+        }
+    },
+    {
+        "nom": "المدينة الرياضية بصفاقس",
+        "adresse": {
+            "state": "sfax",
+            "lat": "34.7418172183501",
+            "long": "10.701969898459168"
+        }
+    },
+    {
+        "nom": "planet foot",
+        "adresse": {
+            "state": "sfax",
+            "lat": "34.778519690259444",
+            "long": "10.671382332859574"
+        }
+    },
+    {
+        "nom": "tennis club sfax",
+        "adresse": {
+            "state": "sfax",
+            "lat": "34.73441640772987",
+            "long": "10.715131174409592"
+        }
+    },
+    {
+        "nom": "terrain tanyour",
+        "adresse": {
+            "state": "sfax",
+            "lat": "34.831433709330064",
+            "long": "10.724142221718141"
+        }
+    },
+    {
+        "nom": "stade yassine park",
+        "adresse": {
+            "state": "sfax",
+            "lat": "34.82085527386479",
+            "long": "10.704081004389856"
+        }
+    },
+    {
+        "nom": "stade zanket el arbi",
+        "adresse": {
+            "state": "sfax",
+            "lat": "34.73381899208555",
+            "long": "10.727423155127333"
+        }
+    },
+    {
+        "nom": "stade golden sfax",
+        "adresse": {
+            "state": "sfax",
+            "lat": "34.76323638315959",
+            "long": "10.796801224338463"
+        }
+    },
+    {
+        "nom": "oasis parc",
+        "adresse": {
+            "state": "sfax",
+            "lat": "34.85472666594291",
+            "long": "10.749892862589395"
+        }
+    },
+    {
+        "nom": "terrain de foot  sportissimo",
+        "adresse": {
+            "state": "sfax",
+            "lat": "34.676191231791634",
+            "long": "10.649871509748696"
+        }
+    },
+    {
+        "nom": "espace maher de loisirs",
+        "adresse": {
+            "state": "sfax",
+            "lat": "34.689705982322465",
+            "long": "10.718681016785707"
+        }
+    },
+    {
+        "nom": "espace maher de loisirs 2",
+        "adresse": {
+            "state": "sfax",
+            "lat": "34.675371898735385",
+            "long": "10.733165735987264"
+        }
+    },
+    {
+        "nom": "jarboui stadium",
+        "adresse": {
+            "state": "sfax",
+            "lat": "34.74018185947468",
+            "long": "10.688732483814569"
+        }
+    },
+    {
+        "nom": "sport med event's",
+        "adresse": {
+            "state": "sfax",
+            "lat": "34.72869629206704",
+            "long": "10.647696595731587"
+        }
+    }
+]

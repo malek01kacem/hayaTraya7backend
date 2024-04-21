@@ -1,0 +1,31 @@
+stages:
+  - build
+  - deploy
+
+# api rebuild.
+build:
+    stage: build
+    image: docker:latest
+    services:
+        - name: docker:dind
+          command: ["--insecure-registry=51.254.97.207:5000"]
+    script:
+        - CONTAINER_TEST_IMAGE=51.254.97.207:5000/${CI_PROJECT_PATH}:${CI_COMMIT_SHORT_SHA}
+        - echo 51.254.97.207:5000
+        - "docker build -t ${CONTAINER_TEST_IMAGE} ."
+        - "docker push ${CONTAINER_TEST_IMAGE}"
+
+deploy:
+    stage: deploy
+    image: nginx
+    script:
+        - whoami
+        - apt update
+        - apt install -y git
+        - ssh-keygen -t rsa -f /root/.ssh/id_rsa -q -P ""
+        - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'
+        - apt install sshpass -y
+        - CONTAINER_TEST_IMAGE=51.254.97.207:5000/${CI_PROJECT_PATH}:${CI_COMMIT_SHORT_SHA}
+        - sshpass -p "Tigtig25614541" ssh ubuntu@51.254.97.207 "docker pull $CONTAINER_TEST_IMAGE && docker service update --image $CONTAINER_TEST_IMAGE gerrapp_gerrapp_api"
+
+
