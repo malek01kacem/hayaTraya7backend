@@ -4,7 +4,7 @@ const signUpValidationSchema = Joi.object({
   firstName: Joi.string().required(),
   lastName: Joi.string().required(),
   email: Joi.string().email().required(),
-  gender: Joi.string().required(),
+  gender: Joi.string().optional(),
   phoneNumber: Joi.string().required(),
   password: Joi.string().required(),
   //preferences: Joi.string().required(),
@@ -15,7 +15,7 @@ const signUpValidationSchema = Joi.object({
 const signInValidationSchema = Joi.object({
   email: Joi.string().email().required(),
   password: Joi.string().required(),
-  deviceId: Joi.string().required()
+  deviceId: Joi.string().optional()
 });
 
 module.exports = {

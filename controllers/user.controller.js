@@ -34,6 +34,8 @@ const registerUser = async (req, res, next) => {
     }
 
     const hashedPassword = await bcrypt.hash(value.password, 10);
+    const defaultImagePath = 'C:/Users/MALEK/Desktop/Backend-main/uploads/userimag/default-image.jpg'; // Specify your default image path here
+
     const newUser = new UserModel({
       firstName: value.firstName,
       lastName: value.lastName,
@@ -41,9 +43,10 @@ const registerUser = async (req, res, next) => {
       phoneNumber: value.phoneNumber,
       gender: value.gender,
       password: hashedPassword,
-      profileImg: img.path,
-      userLocation: value.userLocation ? JSON.parse(value.userLocation):null,
+      profileImg: img && img.path ? img.path : defaultImagePath,
+      userLocation: value.userLocation ? JSON.parse(value.userLocation) : null,
     });
+    
 
     await newUser.save();
     res.status(201).json({

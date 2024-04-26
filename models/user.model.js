@@ -26,6 +26,7 @@ const userSchema = new Schema(
     gender: {
       type: String,
       required: true,
+      default:0
     },
     userLocation: {
       lat: { type: Number , default: 0 },
@@ -33,7 +34,7 @@ const userSchema = new Schema(
     },
     deviceId: {
       type: String,
-      default: "",
+      default: "0",
     },
     preferences: {
       type: [
